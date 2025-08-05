@@ -1,6 +1,6 @@
 ## Hi, Hola, Hallo, Moien, Bom dia, Bonjour!
 
-- 🔭 I’m currently working on a speech-to-text expense tracking app.
+- 🔭 I’m currently working on a mini LMS & Python course.
 - 🌱 I’m currently learning about Software Testing and AI/ML fundamentals.
 - 👯 I’m looking to collaborate on Python, AI/ML, and CS Education projects.
 
