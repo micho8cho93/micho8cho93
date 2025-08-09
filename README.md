@@ -1,7 +1,7 @@
 ## Hi, Hola, Hallo, Moien, Bom dia, Bonjour!
 
-- 🔭 I’m currently working on a mini LMS & Python course.
-- 🌱 I’m currently learning about Software Testing and AI/ML fundamentals.
+- 🔭 I’m currently working on creating a mini LMS for my Python course.
+- 🌱 I’m currently learning about System Design and AI/Web Dev integration.
 - 👯 I’m looking to collaborate on Python, AI/ML, and CS Education projects.
 
 <br>
